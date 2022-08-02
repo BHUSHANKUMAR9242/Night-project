@@ -1,3 +1,18 @@
 body {
+
     background-color: coral;
+    text-align: center;
 }
+
+#user {
+    color: blue;
+}
+#heading {
+    color: yellow;
+}
+
+h1 {
+    color: blue;
+    background-color: black;
+}
+
